@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evil-design. I am also available on Discord with the name Dark Shadow Evil.#5757. 
+- 👋 Hi, I’m @evil-design. I am also available on Discord with the name Dark Shadow Evil#5757. 
 - 👀 I’m interested in Coding and is been supported by my friends a lot over discord. 
      I currently know Html, JavaScript and Python. 
 - 🌱 I’m currently learning more on Python. 
